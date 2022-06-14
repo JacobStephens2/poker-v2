@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Tic Tac Toe
+Do you know the all tie-ing strategy? This app I created through following the tutorial at https://reactjs.org/tutorial/tutorial.html
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
